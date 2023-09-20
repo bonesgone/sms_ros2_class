@@ -20,5 +20,5 @@ Make sure to adapt this script to your specific ROS 2 installation and workspace
 
 Each node in ROS should be responsible for a single, modular purpose, e.g. controlling the wheel motors or publishing the sensor data from a laser range-finder. Each node can send and receive data from other nodes via topics, services, actions, or parameters.
 
-![image](https://github.com/bonesgone/sms_ros2_class/assets/64888324/2fb19269-46e5-42df-b33d-6d0960390d6c)
+![image](https://github.com/bonesgone/sms_ros2_class/assets/64888324/feaddc02-f046-4d55-8f9e-d530e188fb5b)
 
