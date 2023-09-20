@@ -1,4 +1,4 @@
-![image](https://github.com/bonesgone/sms_ros2_class/assets/64888324/f5dac465-617b-4977-b3fe-296dc75bfe7f)This script does the following:
+This script does the following:
 
  *   Sources the ROS 2 environment.
  *   Opens multiple terminal windows using gnome-terminal.
