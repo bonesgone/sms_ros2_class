@@ -13,3 +13,12 @@ Make sure to adapt this script to your specific ROS 2 installation and workspace
 # Screenshot
 
 ![image](https://github.com/bonesgone/sms_ros2_class/assets/64888324/1023486b-4c2f-4685-b0f6-0d975ed71a59)
+
+
+
+## Nodes in ROS2
+
+Each node in ROS should be responsible for a single, modular purpose, e.g. controlling the wheel motors or publishing the sensor data from a laser range-finder. Each node can send and receive data from other nodes via topics, services, actions, or parameters.
+
+![image](https://github.com/bonesgone/sms_ros2_class/assets/64888324/bd6ae6b4-aa7a-4c46-a61e-5374df6b7dcf)
+
